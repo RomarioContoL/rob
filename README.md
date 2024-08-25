@@ -1,12 +1,12 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# asex
+# rob
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of asex is to …
+The goal of rob is to …
 
 ## Installation
 
@@ -15,7 +15,7 @@ You can install the development version of asex from
 
 ``` r
 # install.packages("pak")
-pak::pak("RomarioContoL/asex")
+pak::pak("RomarioContoL/rob")
 ```
 
 ## Example
@@ -23,7 +23,7 @@ pak::pak("RomarioContoL/asex")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(asex)
+library(rob)
 ## basic example code
 ```
 

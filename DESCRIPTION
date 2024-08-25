@@ -1,4 +1,4 @@
-Package: asex
+Package: rob
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
@@ -9,8 +9,8 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
-URL: https://github.com/RomarioContoL/asex
-BugReports: https://github.com/RomarioContoL/asex/issues
+URL: https://github.com/RomarioContoL/rob
+BugReports: https://github.com/RomarioContoL/rob/issues
 Imports: 
     FMC,
     minimalRSD
